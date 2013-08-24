@@ -1,0 +1,4 @@
+hive
+====
+
+Hive test instance.
